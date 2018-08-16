@@ -20,3 +20,24 @@ eos coding test for GXC x Decenter.b
 https://programmers.co.kr/learn/courses/30/lessons/12973
 
 2. 
+```
+#include <iostream>
+
+using namespace std;
+
+typedef int (*ifunc)(int, int);
+
+int process(int a, int b, ifunc f)
+{
+   return f(a, b);
+}
+
+int main()
+{
+   int a = 10;
+   int b = 20;
+
+   // ???를 완성하여 a와 b의 합을 출력하시오
+   cout << process(a, b, ???) << endl;
+}
+```
