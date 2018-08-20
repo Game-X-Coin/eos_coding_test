@@ -25,7 +25,9 @@ eos coding test for GXC x Decenter
 
 https://programmers.co.kr/learn/courses/30/lessons/12973
 
-2. 다음 문제를 푸시오.
+2. c++ lambda
+
+다음 문제를 푸시오.
 
 ```c++
 #include <iostream>
@@ -50,7 +52,9 @@ int main()
 ```
 
 
-3. 다음 문제를 푸시오.
+3. c++ variadic template
+
+이 코드의 실행 결과를 확인하고, 코드의 flow를 서술하시오.
 
 ```c++
 #include <iostream>
