@@ -1,8 +1,10 @@
 # eos_coding_test
 
-eos coding test for GXC x Decenter
+## eos coding test for GXC x Decenter
 
 다음은 core EOS 수업 수강 전, 본인의 블록체인 지식 및 c++에 대한 필요한 지식이 있는지를 묻는 질문입니다. 
+
+아래 문제를 풀 수 있으면 지장 없이 강의를 수강할 수 있을 것입니다.
 
 - blockchain background
 
