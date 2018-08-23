@@ -4,10 +4,11 @@
 
 다음은 core EOS 수업 수강 전, 본인의 블록체인 지식 및 c++에 대한 필요한 지식이 있는지를 묻는 질문입니다. 
 
-아래 문제를 풀 수 있으면 지장 없이 강의를 수강할 수 있을 것입니다.
+아래 문제를 풀 수 있으면 지장 없이 해당 강좌를 수강할 수 있을 것입니다.
 
-- blockchain background
 
+
+## blockchain background
 
 1. 비트코인에서 UTXO란 무엇인가? 이더리움은 UTXO 대신 어떤한 방식으로 데이터를 저장하는가?
 
@@ -18,7 +19,7 @@
 4. 51% attack이란 무엇인가? BTG(bitcoin gold)는 어떠한 방식으로 해당 공격을 당했는가?
 
 
-- c++ Coding test.
+## c++ Coding test.
 
 
 1. simple algorithm
